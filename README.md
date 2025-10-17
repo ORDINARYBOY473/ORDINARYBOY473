@@ -13,7 +13,7 @@
 - 📚 **BTech CS IT (AKTU)**  
 - 🌱 Currently learning **Data Structures & Algorithms**, and working on skill building.  
 - 🧑‍💻 **Cybersecurity enthusiast**
-- 🎯 Focused on building a strong foundation in **emerging AI / ML trends**
+- 🎯 Focused on building a strong foundation in **emerging tech trends**
 
 ---
 
@@ -53,5 +53,6 @@
 
 
 > 🌟 "The future belongs to those who believe in the beauty of their dreams." 🌟
+
 
 
